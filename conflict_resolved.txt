@@ -1,0 +1,5 @@
+to create a conflict i edited readme file of both main and akil branch
+when i try to merge akil to main it showed merge conflict
+to over come merge conflict i resetted readme files of both main and akil branch
+i added them to the staging area committed again
+then i tried to merge and the conflict was resolved.

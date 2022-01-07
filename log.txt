@@ -1,0 +1,42 @@
+commit c6c927526ba1986dc768b5354307fcf51656462f
+Merge: c77d78f 35a7d0e
+Author: 056AKIL <alammdakil4@gmail.com>
+Date:   Fri Jan 7 23:47:38 2022 +0530
+
+    reset readme file of main
+
+commit c77d78f1dff5acccf83c1121e322f64c50db949f
+Author: 056AKIL <alammdakil4@gmail.com>
+Date:   Fri Jan 7 23:45:41 2022 +0530
+
+    edited readme file of main
+
+commit 35a7d0e38e1a76cbd4d28b8c7563ce69c33fe874
+Author: 056AKIL <alammdakil4@gmail.com>
+Date:   Fri Jan 7 23:43:07 2022 +0530
+
+    remove command.txt file from new branch again
+
+commit 3879d7a9602085280626da8435f30aff1ec752f7
+Author: 056AKIL <alammdakil4@gmail.com>
+Date:   Fri Jan 7 23:08:25 2022 +0530
+
+    modify readme from akil branch
+
+commit 25e70b1a96ffd4e9d6172f7c43a7649ffdb92db8
+Author: 056AKIL <93811274+056AKIL@users.noreply.github.com>
+Date:   Fri Jan 7 17:42:19 2022 +0530
+
+    Create edited
+
+commit 5942ae22b7fd8a0b6f35f277b2f6af3d93faae56
+Author: 056AKIL <93811274+056AKIL@users.noreply.github.com>
+Date:   Fri Jan 7 17:16:42 2022 +0530
+
+    Create Commands
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
