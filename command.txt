@@ -1,0 +1,21 @@
+ am                   Apply a series of patches from a mailbox
+   
+   branch               List, create, or delete branches
+   
+   checkout             Switch branches or restore working tree files
+
+   cherry-pick          Apply the changes introduced by some existing commits
+   
+   fetch                Download objects and refs from another repository
+
+   merge                Join two or more development histories together
+   
+   pull                 Fetch from and integrate with another repository or a local branch
+
+   push                 Update remote refs along with associated objects
+
+   restore              Restore working tree files
+  
+   show                 Show various types of objects
+  
+
