@@ -1,3 +1,21 @@
+commit e46d1eab0ea328cffaf841ebff4e6404aec6a264
+Author: 056AKIL <alammdakil4@gmail.com>
+Date:   Sat Jan 8 00:10:24 2022 +0530
+
+    add screenshot folder
+
+commit 97d70af02705f360e0d04afb81a9330c08180955
+Author: 056AKIL <alammdakil4@gmail.com>
+Date:   Sat Jan 8 00:06:52 2022 +0530
+
+    add screenshot folder and created command text
+
+commit c12bd3f0ae8e4e7270e6a6b4661fcf73b7e6bc4a
+Author: 056AKIL <alammdakil4@gmail.com>
+Date:   Fri Jan 7 23:59:50 2022 +0530
+
+    cteated log file and conflict_resolved file
+
 commit c6c927526ba1986dc768b5354307fcf51656462f
 Merge: c77d78f 35a7d0e
 Author: 056AKIL <alammdakil4@gmail.com>
